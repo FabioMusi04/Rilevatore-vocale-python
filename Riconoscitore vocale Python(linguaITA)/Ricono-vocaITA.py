@@ -19,7 +19,7 @@ def inizio():
                 f.write('\n')
                 f.close()            
     except:
-        print("Errore, non ho rilevato una voce, o è poco chiara o non è inglese")
+        print("Errore, non ho rilevato una voce, o è poco chiara")
 inizio()
     
     

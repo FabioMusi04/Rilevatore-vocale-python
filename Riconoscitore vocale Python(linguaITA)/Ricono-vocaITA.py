@@ -1,6 +1,4 @@
 import speech_recognition as sr
-import keyboard
-import sys
 
 def inizio():
     try:
